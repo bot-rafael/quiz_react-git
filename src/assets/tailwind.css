@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "RethinkSans-Italic";
+  src: url("/public/fonts/RethinkSans-Italic-VariableFont_wght.ttf");
+}
+
+@font-face {
+  font-family: "RethinkSans";
+  src: url("/public/fonts/RethinkSans-VariableFont_wght.ttf");
+}
+
+@theme {
+  --font-rethinksans-italic: "RethinkSans-Italic", sans-serif;
+  --font-rethinksans: "RethinkSans", sans-serif;
+
+  --color-blueZodiac : #0f1f3e;
+}
+
+body {
+  @apply font-rethinksans;
+}
+
+

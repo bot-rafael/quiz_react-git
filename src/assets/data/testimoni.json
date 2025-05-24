@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "nama": "Chalamet",
+        "ulasan": "Aplikasinya sangat membantu. Desain simpel dan mudah digunakan!",
+        "avatar": "https://avatar.iran.liara.run/public/49"
+    },
+    {
+        "id": 2,
+        "nama": "Ariana",
+        "ulasan": "Saya suka dengan performanya. Terasa cepat dan ringan.",
+        "avatar": "https://avatar.iran.liara.run/public/62"
+    },
+    {
+        "id": 3,
+        "nama": "Joe",
+        "ulasan": "Fitur yang ditawarkan lengkap dan cocok untuk kebutuhan saya.",
+        "avatar": "https://avatar.iran.liara.run/public/46"
+    },
+    {
+        "id": 4,
+        "nama": "Lyod",
+        "ulasan": "Supportnya cepat respon. Mantap!",
+        "avatar": "https://avatar.iran.liara.run/public/29"
+    },
+    {
+        "id": 5,
+        "nama": "Brian",
+        "ulasan": "UI-nya menarik dan user-friendly.",
+        "avatar": "https://avatar.iran.liara.run/public/37"
+    },
+    {
+        "id": 6,
+        "nama": "David",
+        "ulasan": "Simpel 5/5.",
+        "avatar": "https://avatar.iran.liara.run/public/30"
+    }
+]

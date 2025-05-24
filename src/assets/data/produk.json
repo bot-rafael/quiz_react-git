@@ -1,0 +1,32 @@
+[
+    {
+        "kode_produk": "PRD1",
+        "nama_produk": "Paket Spesial 1",
+        "harga": 25000,
+        "stok": 5
+    },
+    {
+        "kode_produk": "PRD2",
+        "nama_produk": "Paket Spesial 2",
+        "harga": 30000,
+        "stok": 0
+    },
+    {
+        "kode_produk": "PRD3",
+        "nama_produk": "Combo Mantap",
+        "harga": 35000,
+        "stok": 8
+    },
+    {
+        "kode_produk": "PRD4",
+        "nama_produk": "Roti Bakar Coklat",
+        "harga": 15000,
+        "stok": 2
+    },
+    {
+        "kode_produk": "PRD5",
+        "nama_produk": "Susu Segar Original",
+        "harga": 12000,
+        "stok": 0
+    }
+]
